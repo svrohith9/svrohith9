@@ -1,24 +1,21 @@
-### Hi, I'm Rohith 👋
+# Rohith SV
 
-Backend-focused Software Engineer with 6+ years building distributed systems in Java and Spring Boot, now working on generative-AI platforms (RAG pipelines, vector search, LLM integration).
+**Backend / Full-Stack Engineer** · Dallas, TX · 6+ years
 
-Currently at **Viacore**, previously at **Tata Consultancy Services**. M.S. in Information Technology from the University of South Florida.
+📬 **Open to backend / full-stack opportunities** · onsite Dallas / hybrid / remote
+
+I build distributed systems in **Java + Spring Boot** and ship products end-to-end.
+
+📧 [svrohith9@gmail.com](mailto:svrohith9@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/svrohith9) · 🌐 [Portfolio](https://svrohith9.github.io) · 📞 +1 813-568-7015
 
 ---
 
-**What I'm working on**
-- Production RAG services on Spring Boot + LangChain + Pinecone
-- Cloud-native backends on AWS (Lambda, EC2, Aurora, API Gateway)
-- Side projects in Python, TypeScript, and whatever else looks fun
+**Stack:** `Java` · `Spring Boot` · `Kafka` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `AWS` (EKS, Lambda, Step Functions, S3, DynamoDB, SQS/SNS) · `TypeScript` · `React`
 
-**Tech I reach for**
-`Java` · `Spring Boot` · `Python` · `PostgreSQL` · `Kafka` · `Redis` · `Docker` · `Kubernetes` · `AWS` · `LangChain` · `React`
+**Shipped**
 
-**Featured work**
-- [spring-rag-app](https://github.com/svrohith9/spring-rag-app) — RAG service on Spring Boot 3 + LangChain4j + Ollama
-- [dice_jobs_ai_automation](https://github.com/svrohith9/dice_jobs_ai_automation) — Selenium bot that auto-applies to Dice job listings
-- [springboot-collections](https://github.com/svrohith9/springboot-collections) — Microservice patterns, boilerplate, and reusable snippets
-- [reddit-lite](https://github.com/svrohith9/reddit-lite) — Minimal Reddit clone in JavaScript
+- 🟢 **PlugZen** — Chrome extension that manages your Chrome extensions. [Store ↗](https://chromewebstore.google.com/detail/pmhnllcdepampngnehggnbggkhncpklj)
+- 🟢 **LawnGamesApps** — Full-stack inventory SaaS for a services business.
+- 🟡 **COVE** — Full-stack productivity SaaS (in testing).
 
-**Find me**
-[Portfolio](https://svrohith9.github.io/) · [LinkedIn](https://linkedin.com/in/svrohith9) · [Email](mailto:svrohith9@gmail.com)
+**Certifications:** Microsoft Azure Fundamentals (AZ-900) · Microsoft Azure Data Fundamentals (DP-900)
